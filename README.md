@@ -48,7 +48,51 @@ Ask me about:  C++ · DSA · React/Next.js · Applied AI
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:5EF72C,100:00C9A7&height=3&width=1000" width="100%"/>
 
+<h2 align="center">🌟&nbsp; Featured Projects</h2>
 
+<div align="center">
+  <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Codefolio</h3>
+      <p>An app to organize all your coding profiles in a single place and track your progress.</p>
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+      <br/><br/>
+      <a href="https://getcodefolio.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-5EF72C?style=for-the-badge"/></a>
+      <a href="https://github.com/satvikxvansh/codefolio"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>CanteenIQ - Smart Mess Management</h3>
+      <p>A full-stack digital solution for hostel mess management at Birla Institute of Technology, Mesra.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/AI-5EF72C?style=flat-square"/>
+      <br/><br/>
+      <a href="https://getcanteeniq.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-5EF72C?style=for-the-badge"/></a>
+      <a href="https://github.com/satvikxvansh/smart-mess-management"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>TypingRacer</h3>
+      <p>A scalable multiplayer typing racer platform made using websockets.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-47A248?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+      <br/><br/>
+      <a href="http://"><img src="https://img.shields.io/badge/Live%20Demo-5EF72C?style=for-the-badge"/></a>
+      <a href="https://github.com/satvikxvansh/multiplayer-typing-racer"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Portfolio</h3>
+      <p>Personal portfolio site with animated sections, project showcases, and a working contact form.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+      <br/><br/>
+      <a href="https://satvikxvansh.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-5EF72C?style=for-the-badge"/></a>
+      <a href="https://github.com/satvikvansh/whoami"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/></a>
+    </td>
+  </tr>
+</table>
+
+  <sub>🔍 More on my <a href="https://github.com/satvikxvansh?tab=repositories">pinned repositories</a></sub>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:5EF72C,100:00C9A7&height=3&width=1000" width="100%"/>
 
