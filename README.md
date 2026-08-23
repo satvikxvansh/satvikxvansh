@@ -1,138 +1,183 @@
+<!-- Heading -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:5EF72C,100:00C9A7&height=230&section=header&text=Hi%20There,%20I'm%20Satvik%20Vansh&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20 Real%20Time%20Systems%20%7C%20%20DSA%20Enthusiast" width="100%"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5EF72C&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Full-Stack+Web+Developer;%F0%9F%A7%A0+DSA+%2B+Competitive+Programming;%F0%9F%8C%B1+Always+shipping+something+new" alt="Typing SVG" />
-
-<sub>🎓 Electronics & Communication Engineering @ <a href="https://www.bitmesra.ac.in/"><b>BIT Mesra</b></a></sub>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/satvik-vansh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://satvikvansh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-5EF72C?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-<a href="https://leetcode.com/satvikxvansh"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="mailto:satvikvansh@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=satvikxvansh&label=Profile+Views&color=5EF72C&style=flat-square" />&nbsp;
-<img src="https://img.shields.io/github/followers/satvikxvansh?label=Followers&style=flat-square&color=5EF72C" />
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:5EF72C,100:00C9A7&height=3&width=1000" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=45&duration=2000&pause=2000&color=00F0FF&center=true&vCenter=true&width=1200&lines=Hi+there,+I'm+Satvik+Vansh+;Full-Stack+Software+Engineer;Building+Scalable+%26+Impactful+Solutions;1840++Rated+on+Leetcode+(Top+7%)" alt="Typing SVG" />
+  <p align="center">
+    <a href="https://satvikvansh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+    <a href="https://www.linkedin.com/in/satvik-vansh/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:satvikvansh@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://leetcode.com/u/satvikxvansh/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+    <a href="https://github.com/satvikxvansh/"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  </p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=satvikxvansh&label=Profile+Views&color=5EF72C&style=flat-square" />
+    <img src="https://img.shields.io/github/followers/satvikxvansh?label=FOLLOWERS&style=flat-square&color=blue" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/stars/satvikxvansh?label=STARS&style=flat-square&color=yellow" alt="GitHub Stars">
+  </p>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-<h2 align="center">About Me</h2>
+<!-- About Me -->
+<div align="center">
+  <h1>🧑‍💻 About Me</h1>
+  <table align="center">
+    <tr>
+      <td align="center"><img src="https://img.icons8.com/fluency/48/000000/graduation-cap.png"/><br><b>B.Tech ECE</b></td>
+      <td align="center"><img src="https://img.icons8.com/fluency/48/000000/code.png"/><br><b>Full Stack Engineer</b></td>
+      <td align="center"><img src="https://img.icons8.com/fluency/48/000000/trophy.png"/><br><b>LeetCode Knight</b></td>
+      <td align="center"><img src="https://img.icons8.com/fluency/48/000000/light-on.png"/><br><b>600+ DSA Problems</b></td>
+      <td align="center"><img src="https://img.icons8.com/fluency/48/000000/coffee.png"/><br><b>Production Apps</b></td>
+    </tr>
+  </table>
+<pre align="center" style="background: #0d1117; padding: 10px; border-radius: 10px; color: #e6edf3; font-family: 'Fira Code', monospace; width: 700px;">
 
-<div >
+  🚀 Building Scalable Software    │  ███████╗ █████╗ ████████╗██╗   ██╗██╗██╗  ██╗ │
+  💻 Full-Stack Developer          │  ██╔════╝██╔══██╗╚══██╔══╝██║   ██║██║██║ ██╔╝ │
+  🧠 DSA & Competitive Programming │  ███████╗███████║   ██║   ██║   ██║██║█████╔╝  │
+  ⚙️ Backend & System Design       │  ╚════██║██╔══██║   ██║   ██║   ██║██║██╔═██╗  │
+  🎯 Software Development Engineer │  ███████║██║  ██║   ██║   ╚██████╔╝██║██║  ██╗ │
+  🌱 Learning & Building Every Day │  ╚══════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝╚═╝  ╚═╝ │
 
-```yaml
-Name:          Satvik Vansh
-Role:          Software Engineer
-Currently:     Building Scalable AI-powered web apps
-Learning:      System Design, AI
-Grinding on:   LeetCode & Codeforces
-Ask me about:  C++ · DSA · React/Next.js · Applied AI
-```
+</pre>
 
+  <img src="./public/space_shooter.gif" alt="Satvik Vansh" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:5EF72C,100:00C9A7&height=3&width=1000" width="100%"/>
-
-<h2 align="center">LeetCode Stats</h2>
-
+<!-- GitHub Stats -->
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/satvikxvansh?ext=heatmap&font=Fira+Code&colors=0d1117,161b22,c9d1d9,8b949e,5EF72C,00C9A7,38e8ff,5257ff&border=0&radius=20" width="480"/>
+  <h1>📊 GitHub Stats</h1>
+  <br>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satvikxvansh&theme=tokyonight" width="100%">
+    <br><br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satvikxvansh&theme=tokyonight" width="32%">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satvikxvansh&theme=tokyonight" width="32%">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=satvikxvansh&theme=tokyonight&utcOffset=+5" width="32%">
+  </p>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/pacman/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/pcman/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/walidbosso/walidbosso/pacman/pacman-contribution-graph-dark.svg" width="100%">
+  </picture>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:5EF72C,100:00C9A7&height=3&width=1000" width="100%"/>
-
-<h2 align="center">Featured Projects</h2>
-
+<!-- Coding Activity -->
 <div align="center">
-  <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Codefolio</h3>
-      <p>An app to organize all your coding profiles in a single place and track your progress.</p>
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-      <br/><br/>
-      <a href="https://getcodefolio.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-5EF72C?style=for-the-badge"/></a>
-      <a href="https://github.com/satvikxvansh/codefolio"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>CanteenIQ - Smart Mess Management</h3>
-      <p>A full-stack digital solution for hostel mess management at Birla Institute of Technology, Mesra.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/AI-5EF72C?style=flat-square"/>
-      <br/><br/>
-      <a href="https://getcanteeniq.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-5EF72C?style=for-the-badge"/></a>
-      <a href="https://github.com/satvikxvansh/smart-mess-management"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>TypingRacer</h3>
-      <p>A scalable multiplayer typing racer platform made using websockets.</p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-47A248?style=flat-square&logo=PostgreSQL&logoColor=white"/>
-      <br/><br/>
-      <a href="http://"><img src="https://img.shields.io/badge/Live%20Demo-5EF72C?style=for-the-badge"/></a>
-      <a href="https://github.com/satvikxvansh/multiplayer-typing-racer"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Portfolio</h3>
-      <p>Personal portfolio site with animated sections, project showcases, and a working contact form.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-      <br/><br/>
-      <a href="https://satvikxvansh.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-5EF72C?style=for-the-badge"/></a>
-      <a href="https://github.com/satvikvansh/whoami"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/></a>
-    </td>
-  </tr>
-</table>
-
-  <sub>🔍 More on my <a href="https://github.com/satvikxvansh?tab=repositories">pinned repositories</a></sub>
-
+  <h1>📈 Coding Activity</h1>
+  <br>
+  <a href="https://leetcode.com/u/satvikxvansh/">
+    <img src="https://leetcard.jacoblin.cool/satvikxvansh?theme=dark&font=Fira%20Code&ext=contest&border=0&radius=10&animation=true" alt="LeetCode Stats">
+  </a>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:5EF72C,100:00C9A7&height=3&width=1000" width="100%"/>
+<!-- Experience -->
 
-<h2 align="center">Tech Stack</h2>
 
+<!-- Technical Stack -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,react,nextjs,nodejs,express,html,css,tailwind,mongodb,postgres,py,git&theme=dark" />
+  <h1>🛠️ Technical Arsenal</h1>
+  <p><b>Core Languages & Databases</b></p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,mongodb,postgres,mysql,redis&theme=dark&perline=12" alt="Core">
+  <p><b>Frontend & Design</b></p>
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,css,html,figma&theme=dark&perline=12" alt="Frontend"> 
+  <p><b>Backend, Cloud & DevOps</b></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,linux,vercel&theme=dark&perline=14" alt="Backend">
+  <p><b>Tools</b></p>
+  <img src="https://skillicons.dev/icons?i=py,git,postman,vscode&theme=dark&perline=12" alt="AI Tools">
+  <br><br>
+  <p>
+    <img src="https://img.shields.io/badge/Microservices-0F172A?style=flat-square&logo=docker&logoColor=00F0FF" alt="Microservices">
+    <img src="https://img.shields.io/badge/REST_API-0F172A?style=flat-square&logo=api&logoColor=00F0FF" alt="REST">
+    <img src="https://img.shields.io/badge/JWT_Auth-0F172A?style=flat-square&logo=jsonwebtokens&logoColor=00F0FF" alt="JWT">
+  </p>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:5EF72C,100:00C9A7&height=3&width=1000" width="100%"/>
-
-<h2 align="center">GitHub Analytics</h2>
-
+<!-- Projects -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satvikxvansh&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=5EF72C&icon_color=00C9A7&text_color=c9d1d9&border_color=161b22" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satvikxvansh&hide_border=true&background=0d1117&ring=5EF72C&fire=00C9A7&currStreakLabel=5EF72C&sideNums=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff&dates=8b949e&stroke=161b22" height="165"/>
+  <h1> Projects</h1>
+  <table align="center">
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">Codefolio</h3>
+        <div align="center">
+          <a href="https://github.com/satvikxvansh/codefolio" target="_blank">
+            <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+          <a href="https://getcodefolio.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white">
+          </a>
+        </div>
+        <p align="center"><b>React.js · JavaScript · RESTful APIs</b></p>
+        <ul>
+          <li>An app to organize all your coding profiles in a single place and track your progress.</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">CanteenIQ - Smart Mess Management</h3>
+        <div align="center">
+          <a href="https://github.com/satvikxvansh/smart-mess-management" target="_blank">
+            <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+          <a href="https://getcanteeniq.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white">
+          </a>
+        </div>
+        <p align="center"><b>React.js · JavScript · MongoDB · Flask</b></p>
+        <ul>
+          <li>A full-stack digital solution for hostel mess management at Birla Institute of Technology, Mesra.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">TypingRacer</h3>
+        <div align="center">
+          <a href="https://github.com/satvikxvansh/multiplayer-typing-racer" target="_blank">
+            <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+          <a href="https://gettypingracer.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white">
+          </a>
+        </div>
+        <p align="center"><b>TypeScript · Next.js · Socket.io </b></p>
+        <ul>
+          <li>A scalable multiplayer typing racer platform made using websockets.</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">Portfolio Website</h3>
+        <div align="center">
+          <a href="https://github.com/satvikvansh/whoami" target="_blank">
+            <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+          <a href="https://satvikxvansh.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white">
+          </a>
+        </div>
+        <p align="center"><b>React · TailwindCSS</b></p>
+        <ul>
+          <li>✅ 30% reduction in check-in time</li>
+          <li>✅ Offline validation support</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
+<!-- Achievements -->
+
+<!-- Random Dev Quote -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satvikxvansh&layout=compact&hide_border=true&bg_color=0d1117&title_color=5EF72C&text_color=c9d1d9&border_color=161b22" height="165"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=satvikxvansh&theme=tokyonight&no-frame=true&row=2&column=3" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satvikxvansh&bg_color=0d1117&color=5EF72C&line=00C9A7&point=38e8ff&area=true&hide_border=true" width="100%"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:5EF72C,100:00C9A7&height=3&width=1000" width="100%"/>
-
-<div align="center">
-
-<h3>💬&nbsp; Let's Connect</h3>
-
-<a href="https://www.linkedin.com/in/satvik-vansh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://satvikvansh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-5EF72C?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-<a href="mailto:satvikvansh@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/><br/>
-
-<i>⚡ "Code, Learn, Build, Repeat."</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:5EF72C,100:0F2027&height=100&section=footer" width="100%"/>
-
+  </br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=A9FEF7&center=true&width=500&lines=Look+my+projects!+⭐;Let's+connect+and+collaborate!;Open+to+exciting+opportunities!" alt="Thanks" />
+</p>
 </div>
