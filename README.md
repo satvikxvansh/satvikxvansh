@@ -1,12 +1,10 @@
 <!-- Heading -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=45&duration=2000&pause=2000&color=00F0FF&center=true&vCenter=true&width=1200&lines=Hi+there,+I'm+Satvik+Vansh+;Full-Stack+Software+Engineer;Building+Scalable+%26+Impactful+Solutions;1840++Rated+on+Leetcode+(Top+7%)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=45&duration=2000&pause=2000&color=00F0FF&center=true&vCenter=true&width=1200&lines=Hi+there,+I'm+Satvik+Vansh+;Open+to+Full-Time+SDE+Roles;Building+Scalable+%26+Impactful+Solutions;1858++Rated+on+Leetcode+(Top+6%)" alt="Typing SVG" />
   <p align="center">
-    <a href="https://satvikvansh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-    <a href="https://www.linkedin.com/in/satvik-vansh/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:satvikvansh@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://leetcode.com/u/satvikxvansh/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-    <a href="https://github.com/satvikxvansh/"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="https://satvikvansh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-satvikvansh.vercel.app-58A6FF?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+    <a href="mailto:satvikvansh@gmail.com"><img src="https://img.shields.io/badge/Email-satvikvansh%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://www.linkedin.com/in/satvik-vansh/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   </p>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=satvikxvansh&label=Profile+Views&color=5EF72C&style=flat-square" />
@@ -17,27 +15,21 @@
 </div>
 
 <!-- About Me -->
-<div align="center">
-  <h1>🧑‍💻 About Me</h1>
-  <table align="center">
-    <tr>
-      <td align="center"><img src="https://img.icons8.com/fluency/48/000000/graduation-cap.png"/><br><b>B.Tech ECE</b></td>
-      <td align="center"><img src="https://img.icons8.com/fluency/48/000000/code.png"/><br><b>Full Stack Engineer</b></td>
-      <td align="center"><img src="https://img.icons8.com/fluency/48/000000/trophy.png"/><br><b>LeetCode Knight</b></td>
-      <td align="center"><img src="https://img.icons8.com/fluency/48/000000/light-on.png"/><br><b>600+ DSA Problems</b></td>
-      <td align="center"><img src="https://img.icons8.com/fluency/48/000000/coffee.png"/><br><b>Production Apps</b></td>
-    </tr>
-  </table>
-<pre align="center" style="background: #0d1117; padding: 10px; border-radius: 10px; color: #e6edf3; font-family: 'Fira Code', monospace; width: 700px;">
+<h1 align = "center">Who I Am</h1>
+<div>
+  I'm a final-year ECE student at BIT Mesra (graduating 2027). I spend most of my time building full-stack web apps, solving competitive programming problems (1000+ DSA problems, LeetCode Knight), and going down rabbit holes about how distributed systems actually work.
 
-  🚀 Building Scalable Software    │  ███████╗ █████╗ ████████╗██╗   ██╗██╗██╗  ██╗ │
-  💻 Full-Stack Developer          │  ██╔════╝██╔══██╗╚══██╔══╝██║   ██║██║██║ ██╔╝ │
-  🧠 DSA & Competitive Programming │  ███████╗███████║   ██║   ██║   ██║██║█████╔╝  │
-  ⚙️ Backend & System Design       │  ╚════██║██╔══██║   ██║   ██║   ██║██║██╔═██╗  │
-  🎯 Software Development Engineer │  ███████║██║  ██║   ██║   ╚██████╔╝██║██║  ██╗ │
-  🌱 Learning & Building Every Day │  ╚══════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝╚═╝  ╚═╝ │
+A few things I'm proud of from the past year:
 
-</pre>
+- **Codefolio**: An app to organize all your coding profiles in a single place and track your progress.
+- **GithubGPT**: Developed a GitHub-aware RAG assistant.
+- **Multiplayer Typing Racer**: An online socket.io based 1v1-5 multiplayer typing racer game.
+- **Smart Mess Management**: A full-stack digital solution for hostel mess management.
+
+
+I care a lot about whether what I build actually works when people use it.
+
+I'm looking for **full-time SDE roles starting 2027**, and I'm also open to remote work or freelance collaborations if you're building something interesting in the meantime.
 
   <img src="./public/space_shooter.gif" alt="Satvik Vansh" />
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
